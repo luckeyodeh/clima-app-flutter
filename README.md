@@ -6,6 +6,6 @@ A Flutter app that allows you check the climatic conditions for a particular loc
 
 - Clone the repo
 - Get dependencies by using 
-  $ flutter pub get
+  `$ flutter pub get`
 - Run the lib/main.dart file
 
